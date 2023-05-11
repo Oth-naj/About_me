@@ -1,4 +1,4 @@
-<h3 align="center">Goal is to become a professonal developer</h3>
+<h3 align="center">Hi! it's me OTHMAN</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oth-naj&label=Profile%20views&color=0e75b6&style=flat" alt="oth-naj" /> </p>
 
